@@ -1,0 +1,30 @@
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.deps.json
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.runtimeconfig.json
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.runtimeconfig.dev.json
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.dll
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.pdb
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.csprojAssemblyReference.cache
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.csproj.CoreCompileInputs.cache
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.RazorAssemblyInfo.cache
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.RazorAssemblyInfo.cs
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.AssemblyInfoInputs.cache
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.AssemblyInfo.cs
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.RazorTargetAssemblyInfo.cache
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.dll
+F:\STUDY\4th Semester\We_Share_Database\Postgresql\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.pdb
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.deps.json
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.runtimeconfig.json
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.runtimeconfig.dev.json
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.dll
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\WeShare2.pdb
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.csprojAssemblyReference.cache
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.RazorAssemblyInfo.cache
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.RazorAssemblyInfo.cs
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.AssemblyInfoInputs.cache
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.AssemblyInfo.cs
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.RazorTargetAssemblyInfo.cache
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.dll
+C:\Users\user\we_share\we-share\WeShare2\obj\Debug\netcoreapp2.2\WeShare2.pdb
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\user\we_share\we-share\WeShare2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
